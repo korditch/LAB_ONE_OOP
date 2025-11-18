@@ -1,0 +1,14 @@
+D:\файлы вуза\ооп\LR_1\LR_ONE_3\LAB_ONE_3\bin\Debug\net8.0\LAB_ONE_3.exe
+D:\файлы вуза\ооп\LR_1\LR_ONE_3\LAB_ONE_3\bin\Debug\net8.0\LAB_ONE_3.deps.json
+D:\файлы вуза\ооп\LR_1\LR_ONE_3\LAB_ONE_3\bin\Debug\net8.0\LAB_ONE_3.runtimeconfig.json
+D:\файлы вуза\ооп\LR_1\LR_ONE_3\LAB_ONE_3\bin\Debug\net8.0\LAB_ONE_3.dll
+D:\файлы вуза\ооп\LR_1\LR_ONE_3\LAB_ONE_3\bin\Debug\net8.0\LAB_ONE_3.pdb
+D:\файлы вуза\ооп\LR_1\LR_ONE_3\LAB_ONE_3\obj\Debug\net8.0\LAB_ONE_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\файлы вуза\ооп\LR_1\LR_ONE_3\LAB_ONE_3\obj\Debug\net8.0\LAB_ONE_3.AssemblyInfoInputs.cache
+D:\файлы вуза\ооп\LR_1\LR_ONE_3\LAB_ONE_3\obj\Debug\net8.0\LAB_ONE_3.AssemblyInfo.cs
+D:\файлы вуза\ооп\LR_1\LR_ONE_3\LAB_ONE_3\obj\Debug\net8.0\LAB_ONE_3.csproj.CoreCompileInputs.cache
+D:\файлы вуза\ооп\LR_1\LR_ONE_3\LAB_ONE_3\obj\Debug\net8.0\LAB_ONE_3.dll
+D:\файлы вуза\ооп\LR_1\LR_ONE_3\LAB_ONE_3\obj\Debug\net8.0\refint\LAB_ONE_3.dll
+D:\файлы вуза\ооп\LR_1\LR_ONE_3\LAB_ONE_3\obj\Debug\net8.0\LAB_ONE_3.pdb
+D:\файлы вуза\ооп\LR_1\LR_ONE_3\LAB_ONE_3\obj\Debug\net8.0\LAB_ONE_3.genruntimeconfig.cache
+D:\файлы вуза\ооп\LR_1\LR_ONE_3\LAB_ONE_3\obj\Debug\net8.0\ref\LAB_ONE_3.dll
