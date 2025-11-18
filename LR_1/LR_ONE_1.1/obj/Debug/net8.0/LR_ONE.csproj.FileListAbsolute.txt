@@ -1,0 +1,14 @@
+D:\файлы вуза\ооп\LR_ONE\bin\Debug\net8.0\LR_ONE.exe
+D:\файлы вуза\ооп\LR_ONE\bin\Debug\net8.0\LR_ONE.deps.json
+D:\файлы вуза\ооп\LR_ONE\bin\Debug\net8.0\LR_ONE.runtimeconfig.json
+D:\файлы вуза\ооп\LR_ONE\bin\Debug\net8.0\LR_ONE.dll
+D:\файлы вуза\ооп\LR_ONE\bin\Debug\net8.0\LR_ONE.pdb
+D:\файлы вуза\ооп\LR_ONE\obj\Debug\net8.0\LR_ONE.GeneratedMSBuildEditorConfig.editorconfig
+D:\файлы вуза\ооп\LR_ONE\obj\Debug\net8.0\LR_ONE.AssemblyInfoInputs.cache
+D:\файлы вуза\ооп\LR_ONE\obj\Debug\net8.0\LR_ONE.AssemblyInfo.cs
+D:\файлы вуза\ооп\LR_ONE\obj\Debug\net8.0\LR_ONE.csproj.CoreCompileInputs.cache
+D:\файлы вуза\ооп\LR_ONE\obj\Debug\net8.0\LR_ONE.dll
+D:\файлы вуза\ооп\LR_ONE\obj\Debug\net8.0\refint\LR_ONE.dll
+D:\файлы вуза\ооп\LR_ONE\obj\Debug\net8.0\LR_ONE.pdb
+D:\файлы вуза\ооп\LR_ONE\obj\Debug\net8.0\LR_ONE.genruntimeconfig.cache
+D:\файлы вуза\ооп\LR_ONE\obj\Debug\net8.0\ref\LR_ONE.dll
